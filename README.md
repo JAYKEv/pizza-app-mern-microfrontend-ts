@@ -39,11 +39,6 @@
   </ul>
 </details>
 
-### Nx Graph
-
-
-<!-- Features -->
-
 ### :dart: Features
 
 - Basic signup and login functionalities with email OTP-based authentication.
